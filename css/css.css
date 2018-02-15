@@ -1,0 +1,42 @@
+			h1
+{
+	font-family: "Times New Roman", serif;
+	font-size: x-large;
+	color: #629d91;
+	font-style: normal;
+	font-weight: 500;
+	
+}
+h2
+{
+	font-family: "times new roman", serif;
+	font: larger;
+	color: aqua;
+	font-style: italic;
+	font-variant: !important;
+}
+img 1
+{
+	border-color: gray;	
+	border-style: dashed;
+}
+li
+{
+	list-style-type: none;
+	font-family: cursive;
+	font-size: x-large;
+	
+}
+a
+{
+	color: hsla(196, 45%, 52%, 1);
+	text-decoration: none;
+}
+a:hover
+{
+	color: black; 
+}
+a:visited
+{
+	color: blue;
+}
